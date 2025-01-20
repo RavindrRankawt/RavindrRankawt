@@ -28,11 +28,3 @@ I am a mechatronics graduate student at the University of Siegen who is proficie
 ### Socials
 
 <p align="left"> <a href="https://github.com/RavindrRankawt" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/ravindra-rankawat24/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
-
-### Badges
-
-<b>My GitHub Stats</b>
-
-<a href="https://github.com/RavindrRankawt"><img src="https://github-readme-stats.vercel.app/api?username=RavindrRankawt&show_icons=true&hide=&count_private=true&title_color=f97316&text_color=000000&icon_color=10b981&bg_color=ffffff&hide_border=true&show_icons=true" alt="RavindarRankawat's GitHub stats" /></a>
-
-<a href="https://github.com/RavindrRankawt"><img src="https://github-readme-streak-stats.herokuapp.com/?user=RavindrRankawt&stroke=000000&background=ffffff&ring=f97316&fire=f97316&currStreakNum=000000&currStreakLabel=f97316&sideNums=000000&sideLabels=000000&dates=000000&hide_border=true" /></a>
