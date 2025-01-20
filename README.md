@@ -8,9 +8,6 @@ I am a mechatronics graduate student at the University of Siegen who is proficie
 
 * 🌍  I'm based in Siegen
 * ✉️  You can contact me at [ravindra.rankawat.24@gmail.com](mailto:ravindra.rankawat.24@gmail.com)
-* 🚀  I'm currently working on [Supervised Sentiment Analysis]
-* 🧠  I'm learning core concepts of NLP, computer vision and MLOps
-* 🤝  I'm open to collaborating on NLP, Machine Learning, Deep Learning and Computer Vision based Projects.
 
 ### Skills
 
